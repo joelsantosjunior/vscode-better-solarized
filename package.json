@@ -13,27 +13,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "Better Solarized Dark",
+        "label": "Darkerized Better Solarized Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/better-solarized-dark.json"
       },
       {
-        "label": "Better Solarized Dark Italics",
+        "label": "Darkerized Better Solarized Dark Italics",
         "uiTheme": "vs-dark",
         "path": "./themes/better-solarized-dark-italic.json"
       },
       {
-        "label": "Better Solarized Light",
+        "label": "Darkerized Better Solarized Light",
         "uiTheme": "vs",
         "path": "./themes/better-solarized-light.json"
       },
       {
-        "label": "Better Selenized Dark",
+        "label": "Darkerized Better Selenized Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/better-selenized-dark.json"
       },
       {
-        "label": "Better Selenized Light",
+        "label": "Darkerized Better Selenized Light",
         "uiTheme": "vs",
         "path": "./themes/better-selenized-light.json"
       }
@@ -55,12 +55,12 @@
     "atom"
   ],
   "license": "See license inf license.txt",
-  "homepage": "https://github.com/ginfuru/vscode-better-solarized",
+  "homepage": "https://github.com/joelsantosjunior/vscode-better-solarized",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ginfuru/vscode-better-solarized.git"
+    "url": "https://github.com/joelsantosjunior/vscode-better-solarized.git"
   },
-  "bugs": "https://github.com/ginfuru/vscode-better-solarized/issues",
+  "bugs": "https://github.com/joelsantosjunior/vscode-better-solarized/issues",
   "packageManager": "pnpm@9.0.0+sha256.bdfc9a7b372b5c462176993e586492603e20da5864d2f8881edc2462482c76fa",
   "scripts": {
     "build": "pnpm dlx @11ty/eleventy",
