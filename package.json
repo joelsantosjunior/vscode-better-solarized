@@ -2,7 +2,7 @@
   "name": "darkerized-better-solarized-dark-theme",
   "displayName": "Darkerized Better Solarized",
   "description": "A Darkerized Better Solarized theme for Visual Studio Code include light and dark versions",
-  "version": "0.10.10",
+  "version": "0.10.11",
   "publisher": "joelsantos",
   "engines": {
     "vscode": "^1.13.0"
