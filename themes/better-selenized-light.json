@@ -9,7 +9,7 @@
         "background": "#FDF6E3",
         "foreground": "#506268",
         "gutter": "#FDF6E3",
-        "popupCss": "\nhtml {\n  background-color: #184956;\n  color: #506268;\n}\n\na {\n  color: #268BD2;\n}\n\n.error,\n.deleted {\n  color: #DC322F;\n}\n\n.success,\n.inserted,\n.name {\n  color: #859900;\n}\n\n.warning,\n.modified {\n  color: #B58900;\n}\n\n.type {\n  color: #2AA198;\n  font-style: italic;\n}\n\n.param {\n  color: #CB4B16;\n}\n\n.current {\n  text-decoration: underline;\n}\n",
+        "popupCss": "\nhtml {\n  background-color: #184956;\n  color: #506268;\n}\n\na {\n  color: #268BD2;\n}\n\n.error,\n.deleted {\n  color: #DC322F;\n}\n\n.success,\n.inserted,\n.name {\n  color: #829504;\n}\n\n.warning,\n.modified {\n  color: #B58900;\n}\n\n.type {\n  color: #2AA198;\n  font-style: italic;\n}\n\n.param {\n  color: #CB4B16;\n}\n\n.current {\n  text-decoration: underline;\n}\n",
         "selectionBorder": "#00000016",
         "stackGuide": "#00000040"
       }
@@ -212,7 +212,7 @@
       ],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#859900"
+        "foreground": "#829504"
       }
     },
     {
@@ -278,7 +278,7 @@
       "name": "Inserted",
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#859900"
+        "foreground": "#829504"
       }
     },
     {
@@ -331,7 +331,7 @@
       "name": "Search Results Lines",
       "scope": "entity.name.filename.find-in-files",
       "settings": {
-        "foreground": "#859900"
+        "foreground": "#829504"
       }
     },
     {
@@ -523,7 +523,7 @@
       "scope": "markup.underline",
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#859900"
+        "foreground": "#829504"
       }
     },
     {
@@ -665,7 +665,7 @@
       "name": "Markdown - TODO Done",
       "scope": "punctuation.definition.list_item.todo.done",
       "settings": {
-        "foreground": "#859900"
+        "foreground": "#829504"
       }
     },
     {
@@ -679,7 +679,7 @@
       "name": "Markdown - TODO GitHub Checkbox",
       "scope": "markup.checkbox.markdown markup.checkbox.checked_symbol.markdown",
       "settings": {
-        "foreground": "#859900"
+        "foreground": "#829504"
       }
     },
     {
@@ -982,14 +982,14 @@
       "name": "Markdown - Admonition Header (Attention)",
       "scope": "markup.admonition.markdown.attention markup.admonition.header.markdown",
       "settings": {
-        "background": "#85990050"
+        "background": "#82950450"
       }
     },
     {
       "name": "Markdown - Admonition Body (Attention)",
       "scope": "markup.admonition.markdown.attention markup.admonition.body.markdown",
       "settings": {
-        "background": "#85990015"
+        "background": "#82950415"
       }
     },
     {
@@ -1016,7 +1016,7 @@
         "markup.admonition.markdown.attention meta.definition.language.raw.block.fenced.markdown"
       ],
       "settings": {
-        "foreground": "#85990075"
+        "foreground": "#82950475"
       }
     },
     {
@@ -1024,7 +1024,7 @@
       "scope": "markup.admonition.markdown.attention entity.name.admonition.markdown",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#859900"
+        "foreground": "#829504"
       }
     },
     {
@@ -1039,15 +1039,15 @@
         "markup.admonition.markdown.attention markup.raw.block"
       ],
       "settings": {
-        "background": "#85990025"
+        "background": "#82950425"
       }
     },
     {
       "name": "Markdown - Admonition Quote (Attention)",
       "scope": "markup.admonition.markdown.attention markup.quote punctuation.definition.blockquote.markdown",
       "settings": {
-        "background": "#85990035",
-        "foreground": "#85990035"
+        "background": "#82950435",
+        "foreground": "#82950435"
       }
     }
   ],
@@ -1124,7 +1124,7 @@
     "extensionButton.prominentHoverBackground": "#584c27aa",
     "terminal.ansiBlack": "#073642",
     "terminal.ansiRed": "#DC322F",
-    "terminal.ansiGreen": "#859900",
+    "terminal.ansiGreen": "#829504",
     "terminal.ansiYellow": "#B58900",
     "terminal.ansiBlue": "#268BD2",
     "terminal.ansiMagenta": "#D33682",

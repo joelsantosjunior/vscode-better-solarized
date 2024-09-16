@@ -31,7 +31,7 @@ const themes = {
 		indigo: "#503e80",
 		blue: "#268BD2",
 		cyan: "#2AA198",
-		green: "#859900",
+		green: "#829504",
 		teal0: "#005A6F",
 		teal1: "#004454",
 		teal2: "#003847",
